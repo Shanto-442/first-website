@@ -18,3 +18,10 @@ p{
     text-align: center;
     font-size: 16px;
 }
+.footer-down{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+    padding: 10px;
+}
