@@ -3,3 +3,17 @@
   text-align: center;
   background: rgb(162, 222, 249, 1)
 }
+.opinion-form {
+  color: black;
+  text-align: center;
+  background: rgb(180, 221, 240);
+  padding: 10px;
+  margin: 1%;
+}
+
+#input-form {
+  background: rgb(180, 221, 240);
+  padding: 10px;
+  margin: 1%;
+  text-align: center;
+}
